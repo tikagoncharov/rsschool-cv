@@ -34,7 +34,7 @@ alert( unique(values) );
 ## Education
 Novosibirsk State University, Mathematics and Mechanics Faculty '22
 
-Bachelor of Mathematic and Computer Science
+Bachelor of Mathematics and Computer Science
 
 ## English language
 My English level is Intermediate (B1)
