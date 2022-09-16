@@ -1,5 +1,7 @@
 # *Nikita Goncharov*
 
+<img src="photo.jpg" alt="drawing" width="500">
+
 ## Contacts
 * [GitHub](https://github.com/tikagoncharov)
 * [Telegram](https://t.me/tikagoncharov)
@@ -31,6 +33,7 @@ alert( unique(values) );
 
 ## Education
 Novosibirsk State University, Mathematics and Mechanics Faculty '22
+
 Bachelor of Mathematic and Computer Science
 
 ## English language
